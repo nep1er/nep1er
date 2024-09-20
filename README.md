@@ -1,6 +1,8 @@
-# Timofey Evtifeev ![Plink Cat GIF](https://media.tenor.com/Sj5p_aJQCO0AAAAC/plink-nerd-plank.gif)
+# Timofey Evtifeev 
 
 **Game Designer and Gameplay Programmer**
+
+![Cat GIF](https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif)
 
 ### I use:
 <div style="display: flex; align-items: center;">
