@@ -4,8 +4,8 @@
 
 ### I use:
 <div style="display: flex; align-items: center;">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/91602624302279842/915FD2BDA3832F64F063F7EC115C40C7FF66293E/" alt="Unity" width="100" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="80" height="80">
+    <img src="https://franccesco.gallerycdn.vsassets.io/extensions/franccesco/unity-pack-vs-code/0.0.4/1606142155774/Microsoft.VisualStudio.Services.Icons.Default" alt="Unity" width="72" height="72">
+    <img src="https://sibedge.team/upload/iblock/e2a/e2a94d0da3978f028cf0eca4b7aff454.png" alt="C#" width="80" height="80">
 </div>
 
 ---
