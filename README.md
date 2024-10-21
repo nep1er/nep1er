@@ -2,9 +2,9 @@
 
 **🌠Game Designer and 🎮Gameplay Programmer**
 
-<img src="https://tenor.com/view/kitten-keybo-lap-gif-19489640" alt="Cat GIF" width="200"/>
+<img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" alt="Cat GIF" width="200"/>
 
-### 💻I use:
+### 💻I use:.
 <div style="display: flex; align-items: center;">
     <img src="https://franccesco.gallerycdn.vsassets.io/extensions/franccesco/unity-pack-vs-code/0.0.4/1606142155774/Microsoft.VisualStudio.Services.Icons.Default" alt="Unity" width="80" height="80">
     <img src="https://sibedge.team/upload/iblock/e2a/e2a94d0da3978f028cf0eca4b7aff454.png" alt="C#" width="80" height="80">
