@@ -2,7 +2,7 @@
 
 **🌠Game Designer and 🎮Gameplay Programmer**
 
-<img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" alt="Cat GIF" width="200"/>
+<img src="https://tenor.com/view/kitten-keybo-lap-gif-19489640" alt="Cat GIF" width="200"/>
 
 ### 💻I use:
 <div style="display: flex; align-items: center;">
