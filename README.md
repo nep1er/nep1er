@@ -25,7 +25,6 @@ Founder and Lead of ****.
 My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gameplay programming. I lead a game development studio and dedicate several hours a day to perfecting my craft. Right now, I'm expanding my Unity expertise and always learning new technologies.
 
 ---
-
 **📫 How to Reach Me:**  
 <p>
     <a href="mailto:timofejevtifeev7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -36,5 +35,4 @@ discord: **azayk**
 mail: **timofejevtifeev7@gmail.com**
 
 ---
-
 > 🎮 *"Bringing worlds to life through creativity and design."*
