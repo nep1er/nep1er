@@ -26,10 +26,16 @@ My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gamep
 
 # 📫 How to Reach Me:
 
+## 📫 How to Reach Me:
+
 <p>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://discordapp.com/users/your_discord_id"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:timofejevtifeev7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://discordapp.com/users/azayk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
+
+discord: **azayk**  
+mail: **timofejevtifeev7@gmail.com**
+
 
 ---
 
