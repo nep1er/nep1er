@@ -3,14 +3,12 @@
 <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
 
 ---
-
 🎮 **Game Designer & Unity Developer**  
 Founder and Lead of ****. 
 
 <div style="clear: both;"></div>
 
 ---
-
 **🛠 Languages and Tools:**
 <p>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
@@ -20,7 +18,6 @@ Founder and Lead of ****.
 </p>
 
 ---
-
 **🧠 About Me**  
 My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gameplay programming. I lead a game development studio and dedicate several hours a day to perfecting my craft. Right now, I'm expanding my Unity expertise and always learning new technologies.
 
