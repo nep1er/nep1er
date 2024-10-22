@@ -7,7 +7,9 @@
 🎮 **Game Designer & Unity Developer**  
 Founder and Lead of ****. 
 
-<hr style="clear: both;"/>
+<div style="clear: both;"></div>
+
+---
 
 ## 🛠 Languages and Tools:
 <p>
@@ -24,8 +26,6 @@ My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gamep
 
 ---
 
-# 📫 How to Reach Me:
-
 ## 📫 How to Reach Me:
 
 <p>
@@ -35,7 +35,6 @@ My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gamep
 
 discord: **azayk**  
 mail: **timofejevtifeev7@gmail.com**
-
 
 ---
 
