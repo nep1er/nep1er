@@ -1,4 +1,4 @@
-# Welcome, I'm [Your Name] 👾
+# Welcome, I'm Timofey Evtifeev 👾
 
 <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
 
