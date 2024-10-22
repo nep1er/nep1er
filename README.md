@@ -5,7 +5,7 @@
 ---
 
 🎮 **Game Designer & Unity Developer**  
-Founder and Lead of ****. Passionate about bringing engaging experiences to players around the world.
+Founder and Lead of ****. 
 
 ---
 
