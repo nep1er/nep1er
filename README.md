@@ -2,8 +2,6 @@
 
 <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
 
----
-
 🎮 **Game Designer & Unity Developer**  
 Founder and Lead of ****. 
 
@@ -30,3 +28,4 @@ discord: **azayk**
 mail: **timofejevtifeev7@gmail.com**
 
 > 🎮 *"Bringing worlds to life through creativity and design."*
+
