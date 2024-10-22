@@ -5,7 +5,7 @@
 ---
 
 🎮 **Game Designer & Unity Developer**  
-Founder and Lead of ****. 
+
 
 <div style="clear: both;"></div>
 
