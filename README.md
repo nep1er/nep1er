@@ -4,7 +4,7 @@
 
 ---
 
-> 🎮 **Game Designer & Unity Developer**  
+🎮 **Game Designer & Unity Developer**  
 Founder and Lead of **[Your Studio's Name]**, where I create innovative games and refine gameplay mechanics every day. Passionate about bringing engaging experiences to players around the world.
 
 ---
