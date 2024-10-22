@@ -1,8 +1,6 @@
 # Welcome, I'm [Your Name] 👾
 
-<div align="right">
-    <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" alt="Kitten typing" width="250"/>
-</div>
+<img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
 
 ---
 
