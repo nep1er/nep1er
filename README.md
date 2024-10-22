@@ -7,7 +7,7 @@
 🎮 **Game Designer & Unity Developer**  
 Founder and Lead of ****. 
 
----
+<hr style="clear: both;"/>
 
 ## 🛠 Languages and Tools:
 <p>
