@@ -5,14 +5,14 @@
 ---
 
 🎮 **Game Designer & Unity Developer**  
-
+Founder and Lead of ****. 
 
 <div style="clear: both;"></div>
 
 ---
 
-# 🛠 Languages and Tools:
-</p>
+## 🛠 Languages and Tools:
+<p>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
