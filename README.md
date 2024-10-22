@@ -5,7 +5,7 @@
 ---
 
 🎮 **Game Designer & Unity Developer**  
-Founder and Lead of ****. 
+My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gameplay programming. I lead a game development studio and dedicate several hours a day to perfecting my craft. Right now, I'm expanding my Unity expertise and always learning new technologies.
 
 <div style="clear: both;"></div>
 
