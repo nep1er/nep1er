@@ -28,4 +28,3 @@ discord: **azayk**
 mail: **timofejevtifeev7@gmail.com**
 
 > 🎮 *"Bringing worlds to life through creativity and design."*
-
