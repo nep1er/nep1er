@@ -24,12 +24,6 @@ My name is [Your Name], and I’m a **game designer** with a focus on gameplay p
 
 ---
 
-## 🔥 Current Projects:
-- **[Project 1 Name]**: (A short description of the game or tool you're working on)
-- **[Project 2 Name]**: (Another project with a brief description)
-
----
-
 ## 📫 How to Reach Me:
 <p>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
