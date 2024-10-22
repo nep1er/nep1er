@@ -1,6 +1,6 @@
 # Welcome, I'm Timofey Evtifeev 👾
 
-<img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250" style="float: right; margin-left: 10px;"/>
+<img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
 
 ---
 
@@ -12,12 +12,11 @@ Founder and Lead of ****.
 ---
 
 ## 🛠 Languages and Tools:
-<hr style="margin-top: 20px;"/>
 <p>
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -30,8 +29,8 @@ My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gamep
 ## 📫 How to Reach Me:
 
 <p>
-    <a href="mailto:timofejevtifeev7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://discordapp.com/users/azayk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="mailto:timofejevtifeev7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://discordapp.com/users/azayk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 discord: **azayk**  
@@ -40,4 +39,3 @@ mail: **timofejevtifeev7@gmail.com**
 ---
 
 > 🎮 *"Bringing worlds to life through creativity and design."*
-
