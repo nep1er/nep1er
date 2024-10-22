@@ -1,4 +1,4 @@
-# Welcome, I'm [Your Name] 👾
+**# Welcome, I'm [Your Name] 👾
 
 ---
 
@@ -19,7 +19,7 @@ Founder and Lead of **[Your Studio's Name]**, where I create innovative games an
 ---
 
 ## 🧠 About Me
-My name is [Your Name], and I’m a **game designer** with a focus on gameplay programming. I lead a game development studio and dedicate several hours a day to perfecting my craft. Right now, I'm expanding my Unity expertise and always learning new technologies. My aim is to bring my studio to the level of Rockstar Games and establish a presence in the US.
+My name is [Your Name], and I’m a **game designer** with a focus on gameplay programming.
 
 ---
 
@@ -38,3 +38,4 @@ My name is [Your Name], and I’m a **game designer** with a focus on gameplay p
 ---
 
 > 🎮 *"Bringing worlds to life through creativity and design."*
+**
