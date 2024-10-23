@@ -6,15 +6,15 @@
 
 >🎮 **Game Designer & Unity Developer** 
 
-*<p style="font-size: 14px;">
+<p style="font-size: 4px;">
     My name is Timofey Evtifeev, and I’m a <strong>game designer</strong> with a focus on gameplay programming.
-</p>*
+</p>
 
 <div style="clear: both;"></div>
 
 ---
 
-<h2 style="font-size: 24px;">Languages and Tools:</h2>
+<h2 style="font-size: 20px;">Languages and Tools:</h2>
 <p>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 style="font-size: 24px;">How to Reach Me:</h2>
+<h2 style="font-size: 20px;">How to Reach Me:</h2>
 <p>
     <a href="mailto:timofejevtifeev7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://discordapp.com/users/azayk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
