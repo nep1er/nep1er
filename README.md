@@ -1,3 +1,13 @@
+<style>
+  .larger-text {
+    font-size: 24px;
+  }
+  
+  .smaller-text {
+    font-size: 14px;
+  }
+</style>
+
 <h1>Welcome, I'm Timofey Evtifeev 👾</h1>
 
 <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
@@ -34,3 +44,4 @@ mail: **timofejevtifeev7@gmail.com**
 ---
 
 > 🎮 *"Bringing worlds to life through creativity and design."*
+
