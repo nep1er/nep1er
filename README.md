@@ -6,7 +6,7 @@
 
 >🎮 **Game Designer & Unity Developer** 
 
-*My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gameplay programming.*
+*My name is Timofey Evtifeev, and I’m a **game designer** with a focus on gameplay programming*
 
 <div style="clear: both;"></div>
 
