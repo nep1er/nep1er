@@ -6,9 +6,9 @@
 
 >🎮 **Game Designer & Unity Developer** 
 
-<p style="font-size: 14px;">
-    *My name is Timofey Evtifeev, and I’m a <strong>game designer</strong> with a focus on gameplay programming.*
-</p>
+*<p style="font-size: 14px;">
+    My name is Timofey Evtifeev, and I’m a <strong>game designer</strong> with a focus on gameplay programming.
+</p>*
 
 <div style="clear: both;"></div>
 
