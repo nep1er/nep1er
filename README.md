@@ -12,7 +12,7 @@
 
 ---
 
-<h1 style="font-size: 15px;">**🛠 Languages and Tools:**
+<h1 style="font-size: 5px;">**🛠 Languages and Tools:**
 <p>
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
