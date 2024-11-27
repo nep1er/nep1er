@@ -28,7 +28,7 @@
     <a href="https://discordapp.com/users/azayk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-discord: **azayk**  
+discord: **nep1er**  
 mail: **timofejevtifeev7@gmail.com**
 
 ---
