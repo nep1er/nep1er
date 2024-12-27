@@ -1,4 +1,4 @@
-# Welcome, I'm Timofey Evtifeev
+# Welcome
 
 <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" align="right" width="250"/>
 
