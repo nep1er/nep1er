@@ -3,7 +3,7 @@
 
 ---
 
->🎮 **Game Designer & Unity Developer** 
+>🎬 **Creative Director** 
 
 *My name is Timofey Evtifeev.*
 
