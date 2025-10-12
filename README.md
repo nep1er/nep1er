@@ -3,7 +3,7 @@
 
 ---
 
->🎬 **Creative Director** 
+>🎬 **** 
 
 *My name is Timofey Evtifeev.*
 
