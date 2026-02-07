@@ -3,8 +3,6 @@
 
 ---
 
->🎬 **** 
-
 *My name is Timofey Evtifeev.*
 
 <div style="clear: both;"></div>
@@ -32,4 +30,4 @@ mail: **timofejevtifeev7@gmail.com**
 
 ---
 
-> 🎮 *"Bringing worlds to life through creativity and design."*
+> 🎬 *"Bringing worlds to life through creativity and design."*
