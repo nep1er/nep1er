@@ -1,32 +1,33 @@
-# Welcome, I'm Nepler
+# Timofey Evtifeev
 
 
 ---
 
-*My name is Timofey Evtifeev.*
+## Tech Stack
 
-<div style="clear: both;"></div>
-
----
-
-**Languages and Tools:**
-<p>
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<p align="left">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-**How to Reach Me:**  
-<p>
-    <a href="mailto:timofejevtifeev7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://discordapp.com/users/azayk"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+## Contacts
+
+<p align="left">
+    <a href="mailto:timofejevtifeev7@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://discord.com/users/azayk">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
 </p>
 
-discord: **nep1er**  
-mail: **timofejevtifeev7@gmail.com**
+* Discord: **nep1er**
+* Email: **[timofejevtifeev7@gmail.com](mailto:timofejevtifeev7@gmail.com)**
+
 
 ---
 
