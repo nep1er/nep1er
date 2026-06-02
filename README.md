@@ -1,5 +1,19 @@
-# Timofey Evtifeev
+<table>
+<tr>
+<td>
 
+# Timofey Evtifeev   
+
+
+
+</td>
+<td>
+
+<img src="https://media1.tenor.com/m/Z7RFLTS2J9cAAAAd/leonardo-dicaprio-rick-dalton.gif" width="220">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -27,7 +41,6 @@
 
 * Discord: **nep1er**
 * Email: **[timofejevtifeev7@gmail.com](mailto:timofejevtifeev7@gmail.com)**
-
 
 ---
 
